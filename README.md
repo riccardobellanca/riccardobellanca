@@ -4,8 +4,9 @@
 
 Sono uno studente magistrale in **Ingegneria Informatica** al Politecnico di Torino, con specializzazione in **Artificial Intelligence e Data Analytics**. 
 
-Ho un forte interesse nello sviluppo software e sto cercando opportunità per applicare le mie competenze tecniche in contesti pratici e dinamici, specialmente in team innovativi e startup.
+Sono affascinato dall'idea di costruire software che sia scalabile, efficiente e che possa avere un impatto tangibile sul mondo reale. Ciò che mi guida è la volontà di imparare: mi appassiona scoprire nuove tecnologie, tuffarmi in problemi complessi e, soprattutto, lavorare con persone più esperte di me per assorbire conoscenza, sfidarmi e alzare i miei standard ogni giorno.
 
+Sono ambizioso, con un forte interesse per lo sviluppo backend e full-stack. Più che a uno stack specifico, tengo a costruire prodotti che siano solidi, significativi e ben realizzati. Cerco opportunità per applicare le mie competenze in contesti pratici e dinamici, pronto a dare tutto me stesso per crescere e contribuire a un team che condivide la stessa spinta.
 ---
 
 ### 🚀 Tech Stack
@@ -23,8 +24,11 @@ Ho un forte interesse nello sviluppo software e sto cercando opportunità per ap
 ### ⚡️ Progetti Principali
 
 * **Tus-File Uploader**: Sviluppo di un sistema di gestione file in Kotlin e Spring Boot con architettura a microservizi. Implementa il protocollo TUS per upload resumable e adotta una strategia di persistenza ibrida: PostgreSQL (JPA) per i metadati e MinIO (Object Storage S3-compatible) per i dati binari. Include API REST per CRUD, sicurezza e gestione dei ruoli.
+
 * **GeoControl System (PoliTO)**: Sviluppo di un sistema software completo, dall'analisi e raccolta requisiti, passando per il design e l'implementazione, fino ad arrivare al testing e intergrazione del sistema. Abbiamo utilizato un approccio iterativo e un'architettura modulare, il tutto containerizzato con Docker.
+
 * **Web App "Stuff happens" (PoliTO)**: Applicazione web full-stack (React, Node.js) per il "Gioco della Sfortuna". Implementa un'API RESTful per la logica di gioco, autenticazione e profili utente con statistiche di gioco. Include gestione delle sessioni, cronologia delle partite e una modalità demo.
+
 * **Mobile App "MovieHub" (UniPa)**: App nativa Android (Kotlin) per la prenotazione di film, con gestione completa di pagamenti e biglietti. Include un'interfaccia utente adattabile per trailer e dettagli, e un sistema social con forum, commenti e gestione avanzata del profilo.
 
 ---
