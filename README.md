@@ -1,20 +1,21 @@
-# Ciao! Sono Riccardo Bellanca 🎯
+Hello! I'm Riccardo Bellanca 🎯
+---------------------------------
 
 ### Junior Software Engineer & M.S. in Computer Engineering
 
-Sono uno studente magistrale in **Ingegneria Informatica** al Politecnico di Torino, con specializzazione in **Artificial Intelligence e Data Analytics**. 
+I am a Master's student in **Computer Engineering** at Politecnico di Torino, specializing in **Artificial Intelligence and Data Analytics**.
 
-Sono affascinato dall'idea di costruire software che sia scalabile, efficiente e che possa avere un impatto tangibile sul mondo reale. Ciò che mi guida è la volontà di imparare: mi appassiona scoprire nuove tecnologie, tuffarmi in problemi complessi e, soprattutto, lavorare con persone più esperte di me per assorbire conoscenza, sfidarmi e alzare i miei standard ogni giorno.
+I am fascinated by the idea of building software that is scalable, efficient, and capable of having a tangible impact on the real world. What drives me is the desire to learn: I am passionate about discovering new technologies, diving into complex problems, and, above all, working with people more experienced than me to absorb knowledge, challenge myself, and raise my standards every day.
 
-Sono ambizioso, con un forte interesse per lo sviluppo backend e full-stack. Più che a uno stack specifico, tengo a costruire prodotti che siano solidi, significativi e ben realizzati. Cerco opportunità per applicare le mie competenze in contesti pratici e dinamici, pronto a dare tutto me stesso per crescere e contribuire a un team che condivide la stessa spinta.
+I am ambitious, with a strong interest in backend and full-stack development. More than any specific stack, I care about building products that are solid, meaningful, and well-crafted. I am looking for opportunities to apply my skills in practical and dynamic contexts, ready to give my all to grow and contribute to a team that shares the same drive.
 
 ---
 
 ### 🚀 Tech Stack
 
-| Categoria | Tecnologie |
+| Category | Technologies |
 | :--- | :--- |
-| **Linguaggi** | `JavaScript` `TypeScript` `Python` `Java` `C` `Kotlin` `SQL` `Rust` |
+| **Languages** | `JavaScript` `TypeScript` `Python` `Java` `C` `Kotlin` `SQL` `Rust` |
 | **Front-End** | `React` `HTML5` `CSS3` |
 | **Data & DB** | `MySQL` `MongoDB` `SQLite` |
 | **CI/CD & Tools** | `Git` `Github` `Docker` `Postman` |
@@ -22,20 +23,20 @@ Sono ambizioso, con un forte interesse per lo sviluppo backend e full-stack. Pi�
 
 ---
 
-### ⚡️ Progetti Principali
+### ⚡️ Main Projects
 
-* **Tus-File Uploader (PoliTO)**: Sistema di gestione file a microservizi (Kotlin, Spring Boot). Implementa il protocollo TUS (upload resumable) con persistenza ibrida: PostgreSQL (metadati) e MinIO (binari). Include API REST per CRUD e sicurezza.
+* **Tus-File Uploader (PoliTO)**: Microservice-based file management system (Kotlin, Spring Boot). Implements the TUS protocol (resumable uploads) with hybrid persistence: PostgreSQL (metadata) and MinIO (binaries). Includes REST APIs for CRUD operations and security.
 
-* **GeoControl System (PoliTO)**: Sviluppo di un sistema software completo, dall'analisi dei requisiti al testing. Adotta un approccio iterativo, un'architettura modulare ed è containerizzato con Docker.
+* **GeoControl System (PoliTO)**: Development of a complete software system, from requirements analysis to testing. Adopts an iterative approach, a modular architecture, and is containerized with Docker.
 
-* **Web App "Stuff happens" (PoliTO)**: App web full-stack (React, Node.js) per il "Gioco della Sfortuna". Backend RESTful per logica di gioco, autenticazione e profili utente, con gestione sessioni e cronologia partite.
+* **"Stuff Happens" Web App (PoliTO)**: Full-stack web app (React, Node.js) for the "Game of Misfortune." Features a RESTful backend for game logic, authentication, and user profiles, with session management and game history.
 
-* **Mobile App "MovieHub" (UniPa)**: App nativa Android (Kotlin) per la prenotazione di film con pagamenti integrati. Include un'interfaccia per trailer/dettagli e un modulo social (forum, commenti, profili utente).
+* **"MovieHub" Mobile App (UniPa)**: Native Android app (Kotlin) for movie booking with integrated payments. Includes an interface for trailers/details and a social module (forum, comments, user profiles).
 ---
 
-### 🌱 Contattami
+### 🌱 Get in Touch
 
-Sono sempre aperto a discutere di nuove opportunità o di collaborazioni.z
+I am always open to discussing new opportunities or collaborations.
 
 * **LinkedIn**: `https://www.linkedin.com/in/riccardo-bellanca-639a55278/`
 * **Email**: `riky.bellanca@gmail.com`
