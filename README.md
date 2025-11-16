@@ -7,6 +7,7 @@ Sono uno studente magistrale in **Ingegneria Informatica** al Politecnico di Tor
 Sono affascinato dall'idea di costruire software che sia scalabile, efficiente e che possa avere un impatto tangibile sul mondo reale. Ciò che mi guida è la volontà di imparare: mi appassiona scoprire nuove tecnologie, tuffarmi in problemi complessi e, soprattutto, lavorare con persone più esperte di me per assorbire conoscenza, sfidarmi e alzare i miei standard ogni giorno.
 
 Sono ambizioso, con un forte interesse per lo sviluppo backend e full-stack. Più che a uno stack specifico, tengo a costruire prodotti che siano solidi, significativi e ben realizzati. Cerco opportunità per applicare le mie competenze in contesti pratici e dinamici, pronto a dare tutto me stesso per crescere e contribuire a un team che condivide la stessa spinta.
+
 ---
 
 ### 🚀 Tech Stack
@@ -23,14 +24,13 @@ Sono ambizioso, con un forte interesse per lo sviluppo backend e full-stack. Pi�
 
 ### ⚡️ Progetti Principali
 
-* **Tus-File Uploader**: Sviluppo di un sistema di gestione file in Kotlin e Spring Boot con architettura a microservizi. Implementa il protocollo TUS per upload resumable e adotta una strategia di persistenza ibrida: PostgreSQL (JPA) per i metadati e MinIO (Object Storage S3-compatible) per i dati binari. Include API REST per CRUD, sicurezza e gestione dei ruoli.
+* **Tus-File Uploader (PoliTO)**: Sistema di gestione file a microservizi (Kotlin, Spring Boot). Implementa il protocollo TUS (upload resumable) con persistenza ibrida: PostgreSQL (metadati) e MinIO (binari). Include API REST per CRUD e sicurezza.
 
-* **GeoControl System (PoliTO)**: Sviluppo di un sistema software completo, dall'analisi e raccolta requisiti, passando per il design e l'implementazione, fino ad arrivare al testing e intergrazione del sistema. Abbiamo utilizato un approccio iterativo e un'architettura modulare, il tutto containerizzato con Docker.
+* **GeoControl System (PoliTO)**: Sviluppo di un sistema software completo, dall'analisi dei requisiti al testing. Adotta un approccio iterativo, un'architettura modulare ed è containerizzato con Docker.
 
-* **Web App "Stuff happens" (PoliTO)**: Applicazione web full-stack (React, Node.js) per il "Gioco della Sfortuna". Implementa un'API RESTful per la logica di gioco, autenticazione e profili utente con statistiche di gioco. Include gestione delle sessioni, cronologia delle partite e una modalità demo.
+* **Web App "Stuff happens" (PoliTO)**: App web full-stack (React, Node.js) per il "Gioco della Sfortuna". Backend RESTful per logica di gioco, autenticazione e profili utente, con gestione sessioni e cronologia partite.
 
-* **Mobile App "MovieHub" (UniPa)**: App nativa Android (Kotlin) per la prenotazione di film, con gestione completa di pagamenti e biglietti. Include un'interfaccia utente adattabile per trailer e dettagli, e un sistema social con forum, commenti e gestione avanzata del profilo.
-
+* **Mobile App "MovieHub" (UniPa)**: App nativa Android (Kotlin) per la prenotazione di film con pagamenti integrati. Include un'interfaccia per trailer/dettagli e un modulo social (forum, commenti, profili utente).
 ---
 
 ### 🌱 Contattami
