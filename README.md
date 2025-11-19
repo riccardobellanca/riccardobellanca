@@ -1,7 +1,7 @@
 Hello! I'm Riccardo Bellanca 🎯
 ---------------------------------
 
-### Junior Software Engineer & M.S. in Computer Engineering
+### Software Engineer & M.S. in Computer Engineering
 
 I am a Master's student in **Computer Engineering** at Politecnico di Torino, specializing in **Artificial Intelligence and Data Analytics**.
 
@@ -16,7 +16,7 @@ I am ambitious, with a strong interest in backend and full-stack development. Mo
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | `JavaScript` `TypeScript` `Python` `Java` `C` `Kotlin` `SQL` `Rust` |
-| **Front-End** | `React` `HTML5` `CSS3` |
+| **Front-End** | `React` |
 | **Data & DB** | `MySQL` `MongoDB` `SQLite` |
 | **CI/CD & Tools** | `Git` `Github` `Docker` `Postman` |
 | **Security** | `Wireshark` `Ghidra` |
