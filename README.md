@@ -29,7 +29,7 @@ I am ambitious, with a strong interest in backend and full-stack development. Mo
 ### [TUS-Resilient-Storage-Engine](https://github.com/riccardobellanca/TUS-Resilient-Storage-Engine)
 High-performance file management system implementing the TUS protocol for resumable uploads. Features a microservices architecture with Spring Boot/Kotlin, PostgreSQL/MinIO hybrid persistence, OAuth2/OIDC security, and an asynchronous AI enrichment pipeline via Apache Kafka.
 
-###[GeoControl-System](https://github.com/riccardobellanca/GeoControl-System)
+### [GeoControl-System](https://github.com/riccardobellanca/GeoControl-System)
 GeoControl-System is an advanced platform for monitoring and managing virtual perimeters (Geofencing). The system is designed to monitor fleets of devices in real time, automating territorial security through the implementation of dynamic control zones and intelligent alert logic based on asset location.
 
 * **"Stuff Happens" Web App (PoliTO)**: Full-stack web app (React, Node.js) for the "Game of Misfortune." Features a RESTful backend for game logic, authentication, and user profiles, with session management and game history.
