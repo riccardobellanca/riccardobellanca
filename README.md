@@ -25,7 +25,8 @@ I am ambitious, with a strong interest in backend and full-stack development. Mo
 
 ### ⚡️ Main Projects
 
-* **Tus-File Uploader (PoliTO)**: Microservice-based file management system (Kotlin, Spring Boot). Implements the TUS protocol (resumable uploads) with hybrid persistence: PostgreSQL (metadata) and MinIO (binaries). Includes REST APIs for CRUD operations and security.
+## [TUS-Resilient-Storage-Engine](https://github.com/riccardobellanca/TUS-Resilient-Storage-Engine)
+High-performance file management system implementing the TUS protocol for resumable uploads. Features a microservices architecture with Spring Boot/Kotlin, PostgreSQL/MinIO hybrid persistence, OAuth2/OIDC security, and an asynchronous AI enrichment pipeline via Apache Kafka.
 
 * **GeoControl System (PoliTO)**: Development of a complete software system, from requirements analysis to testing. Adopts an iterative approach, a modular architecture, and is containerized with Docker.
 
@@ -38,5 +39,6 @@ I am ambitious, with a strong interest in backend and full-stack development. Mo
 
 I am always open to discussing new opportunities or collaborations.
 
-* **LinkedIn**: `https://www.linkedin.com/in/riccardo-bellanca-639a55278/`
+* **Github** : `https://github.com/riccardobellanca/`
+* **LinkedIn**: `https://www.linkedin.com/in/riccardobellanca/` 
 * **Email**: `riky.bellanca@gmail.com`
