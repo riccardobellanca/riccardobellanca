@@ -32,15 +32,15 @@ High-performance file management system implementing the TUS protocol for resuma
 ### [GeoControl-System](https://github.com/riccardobellanca/GeoControl-System)
 GeoControl-System is an advanced platform for monitoring and managing virtual perimeters (Geofencing). The system is designed to monitor fleets of devices in real time, automating territorial security through the implementation of dynamic control zones and intelligent alert logic based on asset location.
 
-* **"Stuff Happens" Web App (PoliTO)**: Full-stack web app (React, Node.js) for the "Game of Misfortune." Features a RESTful backend for game logic, authentication, and user profiles, with session management and game history.
+### [Stuff-Happens](https://github.com/riccardobellanca/Stuff-Happens)
+A full-stack web application featuring a card-based misfortune game. Built with React and Node.js, it includes OIDC-like session management, a relational database for game history tracking, and a real-time game engine.
 
-* **"MovieHub" Mobile App (UniPa)**: Native Android app (Kotlin) for movie booking with integrated payments. Includes an interface for trailers/details and a social module (forum, comments, user profiles).
 ---
 
-### 🌱 Get in Touch
+## 🌱 Get in Touch
 
 I am always open to discussing new opportunities or collaborations.
 
-* **Github** : `https://github.com/riccardobellanca/`
-* **LinkedIn**: `https://www.linkedin.com/in/riccardobellanca/` 
-* **Email**: `riky.bellanca@gmail.com`
+### [Github](https://github.com/riccardobellanca/)
+### [LinkedIn](https://www.linkedin.com/in/riccardobellanca/)
+### [Email](mailto:riky.bellanca@gmail.com)
