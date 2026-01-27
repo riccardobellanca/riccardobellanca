@@ -41,6 +41,4 @@ A full-stack web application featuring a card-based misfortune game. Built with 
 
 I am always open to discussing new opportunities or collaborations.
 
-### [Github](https://github.com/riccardobellanca/)
-### [LinkedIn](https://www.linkedin.com/in/riccardobellanca/)
-### [Email](mailto:riky.bellanca@gmail.com)
+[Github](https://github.com/riccardobellanca/) [LinkedIn](https://www.linkedin.com/in/riccardobellanca/) [Email](mailto:riky.bellanca@gmail.com)
