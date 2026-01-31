@@ -41,4 +41,6 @@ A full-stack web application featuring a card-based misfortune game. Built with 
 
 I am always open to discussing new opportunities or collaborations.
 
-[Github](https://github.com/riccardobellanca/) [LinkedIn](https://www.linkedin.com/in/riccardobellanca/) [Email](mailto:riky.bellanca@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/riccardobellanca/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riccardobellanca/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riky.bellanca@gmail.com)
