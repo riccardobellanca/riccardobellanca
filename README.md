@@ -16,7 +16,7 @@ I am ambitious, with a strong interest in backend and full-stack development. Mo
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `Java` `Kotlin` `JavaScript` `TypeScript` `Python` `SQL` |
+| **Languages** | `Java` `Kotlin` `JavaScript` `TypeScript` `Python` `SQL` `Rust` |
 | **Backend** | `Spring Boot` `Node.js` `Express` `Spring AI` |
 | **Front-End** | `React` `Vue` |
 | **Data & Storage** | `PostgreSQL` `MinIO` `SQLite` `MySQL` |
