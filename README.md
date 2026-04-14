@@ -32,8 +32,8 @@ High-performance file management system implementing the TUS protocol for resuma
 ### [GeoControl-System](https://github.com/riccardobellanca/GeoControl-System)
 GeoControl-System is an advanced platform for monitoring and managing virtual perimeters (Geofencing). The system is designed to monitor fleets of devices in real time, automating territorial security through the implementation of dynamic control zones and intelligent alert logic based on asset location.
 
-### [Stuff-Happens](https://github.com/riccardobellanca/Stuff-Happens)
-A full-stack web application featuring a card-based misfortune game. Built with React and Node.js, it includes OIDC-like session management, a relational database for game history tracking, and a real-time game engine.
+### [Remote-File-System](https://github.com/riccardobellanca/Remote_File_System)
+A client/server application that mounts a remote filesystem as a local drive. The server exposes files over HTTP (FastAPI), the client mounts them using FUSE (Linux/macOS) or WinFSP (Windows).
 
 ---
 
